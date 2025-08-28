@@ -36,7 +36,7 @@
                 "config": {
                     "repo": "https://github.com/powerloom/snapshotter-configs.git",
                     "branch": "eth_aavev3_lite_v2",
-                    "commit": "53cc402719cfbe390f8ef657671b8f1adee2fcfe"
+                    "commit": "85975b59aac879d1ec5fd7e7fb10711bb19aff8f"
                 },
                 "sequencer": "/dns/devnet-proto-snapshot-listener.aws2.powerloom.io/tcp/9100/p2p/QmbWC2TKXDWnYB1picmYwAMRUz7ACXLXDWyLibjHnaRyoN"
             }
