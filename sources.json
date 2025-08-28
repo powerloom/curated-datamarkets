@@ -62,7 +62,7 @@
                 "config": {
                     "repo": "https://github.com/powerloom/snapshotter-configs.git",
                     "branch": "eth_uniswapv2-lite_v2",
-                    "commit": "9401adf78df686f61ba58779c4d4d44ed37d5184"
+                    "commit": "cc740e46687ecd6732e11bd59fa7918db82099f5"
                 },
                 "sequencer": "/dns/mainnet-proto-snapshot-listener.aws2.powerloom.io/tcp/9100/p2p/QmTK9e9QNEotPkjWAdZT5bbYKV7PEJVu7iXzdVn3VZDEk9"
             }
