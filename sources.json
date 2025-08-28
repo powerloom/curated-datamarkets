@@ -12,12 +12,12 @@
                 "contractAddress": "0x8C3fDC3A281BbB8231c9c92712fE670eFA655e5f",
                 "powerloomProtocolStateContractAddress": "0x3B5A0FB70ef68B5dd677C7d614dFB89961f97401",
                 "compute": {
-                    "repo": "https://github.com/PowerLoom/snapshotter-computes.git",
+                    "repo": "https://github.com/powerloom/snapshotter-computes.git",
                     "branch": "eth_uniswapv2_lite_v2",
                     "commit": "ebb5bbf66122de45fae10c9ef908102e010a8b24"
                 },
                 "config": {
-                    "repo": "https://github.com/PowerLoom/snapshotter-configs.git",
+                    "repo": "https://github.com/powerloom/snapshotter-configs.git",
                     "branch": "eth_uniswapv2-lite_v2",
                     "commit": "9401adf78df686f61ba58779c4d4d44ed37d5184"
                 },
@@ -29,12 +29,12 @@
                 "contractAddress": "0x4229Ad271d8b11f2AdBDe77099752a534470876b",
                 "powerloomProtocolStateContractAddress": "0x3B5A0FB70ef68B5dd677C7d614dFB89961f97401",
                 "compute": {
-                    "repo": "https://github.com/PowerLoom/snapshotter-computes.git",
+                    "repo": "https://github.com/powerloom/snapshotter-computes.git",
                     "branch": "eth_aavev3_lite",
                     "commit": "33f4ec85f787d72d39fa943ba32af5589a5292a8"
                 },
                 "config": {
-                    "repo": "https://github.com/PowerLoom/snapshotter-configs.git",
+                    "repo": "https://github.com/powerloom/snapshotter-configs.git",
                     "branch": "eth_aavev3_lite_v2",
                     "commit": "53cc402719cfbe390f8ef657671b8f1adee2fcfe"
                 },
@@ -55,12 +55,12 @@
                 "contractAddress": "0x21cb57C1f2352ad215a463DD867b838749CD3b8f",
                 "powerloomProtocolStateContractAddress": "0x000AA7d3a6a2556496f363B59e56D9aA1881548F",
                 "compute": {
-                    "repo": "https://github.com/PowerLoom/snapshotter-computes.git",
+                    "repo": "https://github.com/powerloom/snapshotter-computes.git",
                     "branch": "eth_uniswapv2_lite_v2",
                     "commit": "ebb5bbf66122de45fae10c9ef908102e010a8b24"
                 },
                 "config": {
-                    "repo": "https://github.com/PowerLoom/snapshotter-configs.git",
+                    "repo": "https://github.com/powerloom/snapshotter-configs.git",
                     "branch": "eth_uniswapv2-lite_v2",
                     "commit": "9401adf78df686f61ba58779c4d4d44ed37d5184"
                 },
