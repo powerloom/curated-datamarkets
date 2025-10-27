@@ -55,7 +55,10 @@
                     "branch": "feat/bds_lite",
                     "commit": "8b8296b485837654748c3289df55ba2b0d9a6842"
                 },
-                "sequencer": "/dns/devnet-proto-snapshot-listener.aws2.powerloom.io/tcp/9100/p2p/QmbWC2TKXDWnYB1picmYwAMRUz7ACXLXDWyLibjHnaRyoN"
+                "sequencer": "/dns/devnet-proto-snapshot-listener.aws2.powerloom.io/tcp/9100/p2p/QmbWC2TKXDWnYB1picmYwAMRUz7ACXLXDWyLibjHnaRyoN",
+                "bootstrapNodes": [
+                    "/ip4/159.203.190.22/tcp/9100/p2p/12D3KooWN4ovysY4dp45NhLPQ9ywEhK3Z1GmaCVhQKrKHrtk1R2x"
+                ]
             }
         ]
     },
