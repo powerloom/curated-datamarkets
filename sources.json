@@ -77,7 +77,8 @@
                 },
                 "sequencer": "/dns/devnet-proto-snapshot-listener.aws2.powerloom.io/tcp/9100/p2p/QmbWC2TKXDWnYB1picmYwAMRUz7ACXLXDWyLibjHnaRyoN",
                 "bootstrapNodes": [
-                    "/ip4/159.203.190.22/tcp/9100/p2p/12D3KooWN4ovysY4dp45NhLPQ9ywEhK3Z1GmaCVhQKrKHrtk1R2x"
+                    "/ip4/159.203.190.22/tcp/9100/p2p/12D3KooWN4ovysY4dp45NhLPQ9ywEhK3Z1GmaCVhQKrKHrtk1R2x",
+                    "/ip4/143.198.161.179/tcp/9101/p2p/12D3KooWHmvWNk3kVfbh73KRZZ54j5vy2HN2AC4oXFr8JrVNnnQr"
                 ]
             }
         ]
