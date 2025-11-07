@@ -63,7 +63,7 @@
             {
                 "name": "BDS_DEVNET_ALPHA_UNISWAPV3",
                 "sourceChain": "ETH-MAINNET",
-                "contractAddress": "0xae32c4FA72E2e5F53ed4D214E4aD049286Ded16f",
+                "contractAddress": "0xb5cE2F9B71e785e3eC0C45EDE06Ad95c3bb71a4d",
                 "powerloomProtocolStateContractAddress": "0x3B5A0FB70ef68B5dd677C7d614dFB89961f97401",
                 "compute": {
                     "repo": "https://github.com/powerloom/snapshotter-computes.git",
