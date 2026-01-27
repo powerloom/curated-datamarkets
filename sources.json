@@ -106,6 +106,27 @@
                     "commit": "cc740e46687ecd6732e11bd59fa7918db82099f5"
                 },
                 "sequencer": "/dns/mainnet-proto-snapshot-listener.aws2.powerloom.io/tcp/9100/p2p/QmTK9e9QNEotPkjWAdZT5bbYKV7PEJVu7iXzdVn3VZDEk9"
+            },
+            {
+                "name": "BDS_MAINNET_ALPHA_UNISWAPV3",
+                "sourceChain": "ETH-MAINNET",
+                "contractAddress": "0x4198Bf81B55EE4Af6f9Ddc176F8021960813f641",
+                "powerloomProtocolStateContractAddress": "0xa1100CB00Acd3cA83a7C8F4DAA42701D1Eaf4A6c",
+                "compute": {
+                    "repo": "https://github.com/powerloom/snapshotter-computes.git",
+                    "branch": "feat/bds_lite",
+                    "commit": "a036c435db20dee728924933dbc4e2575db4a2ad"
+                },
+                "config": {
+                    "repo": "https://github.com/powerloom/snapshotter-configs.git",
+                    "branch": "feat/bds_lite",
+                    "commit": "8b8296b485837654748c3289df55ba2b0d9a6842"
+                },
+                "sequencer": "/dns/soon-to-be-deprecated/tcp/9100/p2p/peer-id",
+                "bootstrapNodes": [
+                    "/ip4/159.89.94.56/tcp/9101/p2p/12D3KooWQM5fN7nFxGQeY7acpatnaLteFkmthHyMgG5grwTqAAio",
+                    "/ip4/143.198.161.179/tcp/9101/p2p/12D3KooWHmvWNk3kVfbh73KRZZ54j5vy2HN2AC4oXFr8JrVNnnQr"
+                ]
             }
         ]
     }
