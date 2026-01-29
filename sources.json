@@ -79,7 +79,10 @@
                 "bootstrapNodes": [
                     "/ip4/159.89.94.56/tcp/9101/p2p/12D3KooWQM5fN7nFxGQeY7acpatnaLteFkmthHyMgG5grwTqAAio",
                     "/ip4/143.198.161.179/tcp/9101/p2p/12D3KooWHmvWNk3kVfbh73KRZZ54j5vy2HN2AC4oXFr8JrVNnnQr"
-                ]
+                ],
+                "rendezvousPoint": "powerloom-dsv-devnet-alpha",
+                "gossipsubSnapshotSubmissionPrefix": "/powerloom/dsv-devnet-alpha/snapshot-submissions",
+                "centralizedSequencerEnabled": true
             }
         ]
     },
@@ -126,7 +129,10 @@
                 "bootstrapNodes": [
                     "/ip4/159.89.94.56/tcp/9101/p2p/12D3KooWQM5fN7nFxGQeY7acpatnaLteFkmthHyMgG5grwTqAAio",
                     "/ip4/143.198.161.179/tcp/9101/p2p/12D3KooWHmvWNk3kVfbh73KRZZ54j5vy2HN2AC4oXFr8JrVNnnQr"
-                ]
+                ],
+                "rendezvousPoint": "powerloom-dsv-mainnet-alpha",
+                "gossipsubSnapshotSubmissionPrefix": "/powerloom/dsv-mainnet-alpha/snapshot-submissions",
+                "centralizedSequencerEnabled": false
             }
         ]
     }
