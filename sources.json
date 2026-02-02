@@ -117,7 +117,7 @@
                 "powerloomProtocolStateContractAddress": "0xa1100CB00Acd3cA83a7C8F4DAA42701D1Eaf4A6c",
                 "compute": {
                     "repo": "https://github.com/powerloom/snapshotter-computes.git",
-                    "branch": "feat/bds_lite-slot-assignment",
+                    "branch": "feat/bds_lite",
                     "commit": "345abdfde4dbfe116bf36cfa37c31b47b145b665"
                 },
                 "config": {
