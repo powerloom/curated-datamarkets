@@ -118,7 +118,7 @@
                 "compute": {
                     "repo": "https://github.com/powerloom/snapshotter-computes.git",
                     "branch": "feat/bds_lite-slot-assignment",
-                    "commit": "4175eeb9dd453f39e7cd1ca938d90a9400445b8c"
+                    "commit": "0bd8826f3fbfaee4d9236e1316df06f9a4a8f2de"
                 },
                 "config": {
                     "repo": "https://github.com/powerloom/snapshotter-configs.git",
