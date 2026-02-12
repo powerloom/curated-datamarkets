@@ -117,8 +117,8 @@
                 "powerloomProtocolStateContractAddress": "0xa1100CB00Acd3cA83a7C8F4DAA42701D1Eaf4A6c",
                 "compute": {
                     "repo": "https://github.com/powerloom/snapshotter-computes.git",
-                    "branch": "feat/bds_lite",
-                    "commit": "83ae1ba18e2a7e2ca318fc9b9cd977a15a22bcf3"
+                    "branch": "feat/bds_lite-reserves-caching",
+                    "commit": "e5db85b0c95f4baf228f4605e2805405166678f3"
                 },
                 "config": {
                     "repo": "https://github.com/powerloom/snapshotter-configs.git",
