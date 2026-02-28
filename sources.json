@@ -127,7 +127,8 @@
                 },
                 "sequencer": "/dns/soon-to-be-deprecated/tcp/9100/p2p/peer-id",
                 "bootstrapNodes": [
-                    "/ip4/159.89.94.56/tcp/9101/p2p/12D3KooWQM5fN7nFxGQeY7acpatnaLteFkmthHyMgG5grwTqAAio",
+                    "/ip4/24.144.118.140/tcp/9101/p2p/12D3KooWD8t5kwAeGfkbbk7Ap5Q9MZo65MkvtdqU3HsAFpLBKCHx",
+                    "/ip4/134.209.152.11/tcp/9101/p2p/12D3KooWBHmpWzsGVFJJ6RryUH6jkjKQP5psrxzQXj2WQRsdi9pr",
                     "/ip4/143.198.161.179/tcp/9101/p2p/12D3KooWHmvWNk3kVfbh73KRZZ54j5vy2HN2AC4oXFr8JrVNnnQr"
                 ],
                 "rendezvousPoint": "powerloom-dsv-mainnet-bds",
