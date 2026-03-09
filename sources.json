@@ -118,7 +118,7 @@
                 "compute": {
                     "repo": "https://github.com/powerloom/snapshotter-computes.git",
                     "branch": "feat/bds_lite",
-                    "commit": "225348c39ccc23d90446433d42d1bac3c32a1598"
+                    "commit": "131afdb370e62c92688adc0dfc1beef918b2be41"
                 },
                 "config": {
                     "repo": "https://github.com/powerloom/snapshotter-configs.git",
