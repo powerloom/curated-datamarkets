@@ -94,23 +94,6 @@
         },
         "dataMarkets": [
             {
-                "name": "UNISWAPV2",
-                "sourceChain": "ETH-MAINNET",
-                "contractAddress": "0x21cb57C1f2352ad215a463DD867b838749CD3b8f",
-                "powerloomProtocolStateContractAddress": "0x000AA7d3a6a2556496f363B59e56D9aA1881548F",
-                "compute": {
-                    "repo": "https://github.com/powerloom/snapshotter-computes.git",
-                    "branch": "eth_uniswapv2_lite_v2",
-                    "commit": "ebb5bbf66122de45fae10c9ef908102e010a8b24"
-                },
-                "config": {
-                    "repo": "https://github.com/powerloom/snapshotter-configs.git",
-                    "branch": "eth_uniswapv2-lite_v2",
-                    "commit": "cc740e46687ecd6732e11bd59fa7918db82099f5"
-                },
-                "sequencer": "/dns/mainnet-proto-snapshot-listener.aws2.powerloom.io/tcp/9100/p2p/QmTK9e9QNEotPkjWAdZT5bbYKV7PEJVu7iXzdVn3VZDEk9"
-            },
-            {
                 "name": "BDS_MAINNET_UNISWAPV3",
                 "sourceChain": "ETH-MAINNET",
                 "contractAddress": "0x26c44e5CcEB7Fe69Cffc933838CF40286b2dc01a",
@@ -118,7 +101,7 @@
                 "compute": {
                     "repo": "https://github.com/powerloom/snapshotter-computes.git",
                     "branch": "feat/bds_lite",
-                    "commit": "131afdb370e62c92688adc0dfc1beef918b2be41"
+                    "commit": "a782092d581390f45cd16d5489d498b513dabaf2"
                 },
                 "config": {
                     "repo": "https://github.com/powerloom/snapshotter-configs.git",
