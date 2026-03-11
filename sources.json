@@ -25,7 +25,8 @@
                 "bootstrapNodes": [
                     "/ip4/24.144.118.140/tcp/9101/p2p/12D3KooWD8t5kwAeGfkbbk7Ap5Q9MZo65MkvtdqU3HsAFpLBKCHx",
                     "/ip4/134.209.152.11/tcp/9101/p2p/12D3KooWBHmpWzsGVFJJ6RryUH6jkjKQP5psrxzQXj2WQRsdi9pr",
-                    "/ip4/143.198.161.179/tcp/9101/p2p/12D3KooWHmvWNk3kVfbh73KRZZ54j5vy2HN2AC4oXFr8JrVNnnQr"
+                    "/ip4/143.198.161.179/tcp/9101/p2p/12D3KooWHmvWNk3kVfbh73KRZZ54j5vy2HN2AC4oXFr8JrVNnnQr",
+                    "/ip4/89.167.76.134/tcp/9101/p2p/12D3KooWPi3UvsRYsNnPmDw3rez5jznZyH3PHDpngyF1qZNtT9MD"
                 ],
                 "rendezvousPoint": "powerloom-dsv-mainnet-bds",
                 "gossipsubSnapshotSubmissionPrefix": "/powerloom/dsv-mainnet-bds/snapshot-submissions",
